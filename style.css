@@ -1,0 +1,12 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+.border-test {
+  margin: auto;
+  border-style: solid;
+  border-width: 8px;
+  height: fit-content;
+  width: fit-content;
+  border-image: url("assets/pixels.png") 8 repeat;
+}
